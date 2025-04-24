@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Describe the task**
-A clear and concise description of what the task is.
+## **Describe the task**
+> A clear and concise description of what the task is.
 
-**Additional context**
-Add any other context about the task request here.
+## **Additional context**
+> Add any other context about the task request here.

@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Describe the research**
-A clear and concise description of what the research is.
+## **Describe the research**
+> A clear and concise description of what the research is.
 
-**Additional context**
-Add any other context about the research request here.
+## **Additional context**
+> Add any other context about the research request here.
